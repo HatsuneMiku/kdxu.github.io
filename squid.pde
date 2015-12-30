@@ -215,7 +215,6 @@ class Squid {
 
       this.deadTime = RESPAWNFRAME;
 
-      println("dead!");
     }
   }
 
